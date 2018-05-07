@@ -1,0 +1,10 @@
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\bin\Release\PaymentWindowsService.dll
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\bin\Release\PaymentWindowsService.pdb
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\bin\Release\DALSADADPayment.dll
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\bin\Release\ErrorLogger.dll
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\bin\Release\mysql.data.dll
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\bin\Release\DALSADADPayment.pdb
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\bin\Release\ErrorLogger.pdb
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\obj\Release\PaymentWindowsService.csprojResolveAssemblyReference.cache
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\obj\Release\PaymentWindowsService.dll
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\obj\Release\PaymentWindowsService.pdb

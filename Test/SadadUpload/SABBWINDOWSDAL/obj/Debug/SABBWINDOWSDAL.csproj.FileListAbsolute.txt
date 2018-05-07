@@ -1,0 +1,35 @@
+D:\Data\Ijarah_Jan\SABBWINDOWSDAL\bin\Debug\SABBWINDOWSDAL.dll
+D:\Data\Ijarah_Jan\SABBWINDOWSDAL\bin\Debug\SABBWINDOWSDAL.pdb
+D:\Data\Ijarah_Jan\SABBWINDOWSDAL\bin\Debug\ErrorLogger.dll
+D:\Data\Ijarah_Jan\SABBWINDOWSDAL\bin\Debug\ErrorLogger.pdb
+D:\Data\Ijarah_Jan\SABBWINDOWSDAL\obj\Debug\SABBWINDOWSDAL.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah_Jan\SABBWINDOWSDAL\obj\Debug\SABBWINDOWSDAL.dll
+D:\Data\Ijarah_Jan\SABBWINDOWSDAL\obj\Debug\SABBWINDOWSDAL.pdb
+D:\Data\SadadUpload\SadadUpload\SABBWINDOWSDAL\bin\Debug\SABBWINDOWSDAL.dll
+D:\Data\SadadUpload\SadadUpload\SABBWINDOWSDAL\bin\Debug\SABBWINDOWSDAL.pdb
+D:\Data\SadadUpload\SadadUpload\SABBWINDOWSDAL\bin\Debug\ErrorLogger.dll
+D:\Data\SadadUpload\SadadUpload\SABBWINDOWSDAL\bin\Debug\ErrorLogger.pdb
+D:\Data\SadadUpload\SadadUpload\SABBWINDOWSDAL\obj\Debug\SABBWINDOWSDAL.csprojResolveAssemblyReference.cache
+D:\Data\SadadUpload\SadadUpload\SABBWINDOWSDAL\obj\Debug\SABBWINDOWSDAL.dll
+D:\Data\SadadUpload\SadadUpload\SABBWINDOWSDAL\obj\Debug\SABBWINDOWSDAL.pdb
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SABBWINDOWSDAL\bin\Debug\SABBWINDOWSDAL.dll
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SABBWINDOWSDAL\bin\Debug\SABBWINDOWSDAL.pdb
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SABBWINDOWSDAL\bin\Debug\ErrorLogger.dll
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SABBWINDOWSDAL\bin\Debug\ErrorLogger.pdb
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SABBWINDOWSDAL\obj\Debug\SABBWINDOWSDAL.csprojResolveAssemblyReference.cache
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SABBWINDOWSDAL\obj\Debug\SABBWINDOWSDAL.dll
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SABBWINDOWSDAL\obj\Debug\SABBWINDOWSDAL.pdb
+D:\My Received Files\Satish.M\[0]-SadadUpload\SadadUpload\SABBWINDOWSDAL\bin\Debug\SABBWINDOWSDAL.dll
+D:\My Received Files\Satish.M\[0]-SadadUpload\SadadUpload\SABBWINDOWSDAL\bin\Debug\SABBWINDOWSDAL.pdb
+D:\My Received Files\Satish.M\[0]-SadadUpload\SadadUpload\SABBWINDOWSDAL\bin\Debug\ErrorLogger.dll
+D:\My Received Files\Satish.M\[0]-SadadUpload\SadadUpload\SABBWINDOWSDAL\bin\Debug\ErrorLogger.pdb
+D:\My Received Files\Satish.M\[0]-SadadUpload\SadadUpload\SABBWINDOWSDAL\obj\Debug\SABBWINDOWSDAL.csprojResolveAssemblyReference.cache
+D:\My Received Files\Satish.M\[0]-SadadUpload\SadadUpload\SABBWINDOWSDAL\obj\Debug\SABBWINDOWSDAL.dll
+D:\My Received Files\Satish.M\[0]-SadadUpload\SadadUpload\SABBWINDOWSDAL\obj\Debug\SABBWINDOWSDAL.pdb
+E:\Projects\SadadUpload\SABBWINDOWSDAL\bin\Debug\SABBWINDOWSDAL.dll
+E:\Projects\SadadUpload\SABBWINDOWSDAL\bin\Debug\SABBWINDOWSDAL.pdb
+E:\Projects\SadadUpload\SABBWINDOWSDAL\bin\Debug\ErrorLogger.dll
+E:\Projects\SadadUpload\SABBWINDOWSDAL\bin\Debug\ErrorLogger.pdb
+E:\Projects\SadadUpload\SABBWINDOWSDAL\obj\Debug\SABBWINDOWSDAL.csprojResolveAssemblyReference.cache
+E:\Projects\SadadUpload\SABBWINDOWSDAL\obj\Debug\SABBWINDOWSDAL.dll
+E:\Projects\SadadUpload\SABBWINDOWSDAL\obj\Debug\SABBWINDOWSDAL.pdb

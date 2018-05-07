@@ -1,0 +1,13 @@
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SADADUploadWindowsService\bin\Release\SADADUploadWindowsService.exe.config
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SADADUploadWindowsService\bin\Release\SADADUploadWindowsService.exe
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SADADUploadWindowsService\bin\Release\SADADUploadWindowsService.pdb
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SADADUploadWindowsService\bin\Release\SABBWINDOWSDAL.dll
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SADADUploadWindowsService\bin\Release\ErrorLogger.dll
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SADADUploadWindowsService\bin\Release\SABBWINDOWSDAL.pdb
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SADADUploadWindowsService\bin\Release\ErrorLogger.pdb
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SADADUploadWindowsService\obj\Release\SADADUploadWindowsService.csprojResolveAssemblyReference.cache
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SADADUploadWindowsService\obj\Release\SADADUploadWindowsService.Frm_Upload.resources
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SADADUploadWindowsService\obj\Release\SADADUploadWindowsService.ProjectInstaller.resources
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SADADUploadWindowsService\obj\Release\SADADUploadWindowsService.csproj.GenerateResource.Cache
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SADADUploadWindowsService\obj\Release\SADADUploadWindowsService.exe
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SADADUploadWindowsService\obj\Release\SADADUploadWindowsService.pdb

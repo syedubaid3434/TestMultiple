@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALSADADPayment", "DALSADADPayment\DALSADADPayment.csproj", "{DB895D8A-A70E-41E2-A4C6-881FEF536B06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SADADPayment", "SADADPayment\SADADPayment.csproj", "{0A3E5528-71EB-48A7-9CAC-9A84ABBA2E84}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C9B4D500-04FD-4669-87C4-2727C00AB3B8} = {C9B4D500-04FD-4669-87C4-2727C00AB3B8}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorLogger", "ErrorLogger\ErrorLogger.csproj", "{18B18AC6-4D86-4D55-91B4-42C17140E896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentWindowsService", "PaymentWindowsService\PaymentWindowsService.csproj", "{7AAE493C-DDD4-4222-8E6D-5BB23CA38D65}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C9B4D500-04FD-4669-87C4-2727C00AB3B8} = {C9B4D500-04FD-4669-87C4-2727C00AB3B8}
+		{0A3E5528-71EB-48A7-9CAC-9A84ABBA2E84} = {0A3E5528-71EB-48A7-9CAC-9A84ABBA2E84}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SadadInsertPayment", "SadadInsertPayment\SadadInsertPayment.csproj", "{C9B4D500-04FD-4669-87C4-2727C00AB3B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB895D8A-A70E-41E2-A4C6-881FEF536B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB895D8A-A70E-41E2-A4C6-881FEF536B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB895D8A-A70E-41E2-A4C6-881FEF536B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB895D8A-A70E-41E2-A4C6-881FEF536B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A3E5528-71EB-48A7-9CAC-9A84ABBA2E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3E5528-71EB-48A7-9CAC-9A84ABBA2E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3E5528-71EB-48A7-9CAC-9A84ABBA2E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3E5528-71EB-48A7-9CAC-9A84ABBA2E84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B18AC6-4D86-4D55-91B4-42C17140E896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B18AC6-4D86-4D55-91B4-42C17140E896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B18AC6-4D86-4D55-91B4-42C17140E896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B18AC6-4D86-4D55-91B4-42C17140E896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AAE493C-DDD4-4222-8E6D-5BB23CA38D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AAE493C-DDD4-4222-8E6D-5BB23CA38D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AAE493C-DDD4-4222-8E6D-5BB23CA38D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AAE493C-DDD4-4222-8E6D-5BB23CA38D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B4D500-04FD-4669-87C4-2727C00AB3B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B4D500-04FD-4669-87C4-2727C00AB3B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B4D500-04FD-4669-87C4-2727C00AB3B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B4D500-04FD-4669-87C4-2727C00AB3B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

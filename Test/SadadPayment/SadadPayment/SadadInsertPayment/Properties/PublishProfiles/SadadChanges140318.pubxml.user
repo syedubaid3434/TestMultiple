@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\SadadPublish140318</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DALSADADPayment.dll">
+      <publishTime>03/14/2018 15:23:12</publishTime>
+    </File>
+    <File Include="bin/ErrorLogger.dll">
+      <publishTime>03/14/2018 15:23:12</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>12/14/2016 10:00:59</publishTime>
+    </File>
+    <File Include="bin/SadadInsertPayment.dll">
+      <publishTime>03/14/2018 15:23:13</publishTime>
+    </File>
+    <File Include="IjarahSadadPaymentInsert.svc">
+      <publishTime>05/17/2017 16:03:03</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/14/2018 15:23:14</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>11/22/2017 13:11:13</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

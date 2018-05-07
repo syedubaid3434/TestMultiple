@@ -1,0 +1,15 @@
+D:\Data\Ijarah_Jan\ErrorLogger\bin\Release\ErrorLogger.dll
+D:\Data\Ijarah_Jan\ErrorLogger\bin\Release\ErrorLogger.pdb
+D:\Data\Ijarah_Jan\ErrorLogger\obj\Release\ErrorLogger.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah_Jan\ErrorLogger\obj\Release\ErrorLogger.dll
+D:\Data\Ijarah_Jan\ErrorLogger\obj\Release\ErrorLogger.pdb
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\ErrorLogger\bin\Release\ErrorLogger.dll
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\ErrorLogger\bin\Release\ErrorLogger.pdb
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\ErrorLogger\obj\Release\ErrorLogger.csprojResolveAssemblyReference.cache
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\ErrorLogger\obj\Release\ErrorLogger.dll
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\ErrorLogger\obj\Release\ErrorLogger.pdb
+E:\Projects\SadadUpload\ErrorLogger\bin\Release\ErrorLogger.dll
+E:\Projects\SadadUpload\ErrorLogger\bin\Release\ErrorLogger.pdb
+E:\Projects\SadadUpload\ErrorLogger\obj\Release\ErrorLogger.csprojResolveAssemblyReference.cache
+E:\Projects\SadadUpload\ErrorLogger\obj\Release\ErrorLogger.dll
+E:\Projects\SadadUpload\ErrorLogger\obj\Release\ErrorLogger.pdb

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\SadadPaymentTEST</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DALSADADPayment.dll">
+      <publishTime>05/06/2017 19:25:11</publishTime>
+    </File>
+    <File Include="bin/ErrorLogger.dll">
+      <publishTime>05/06/2017 19:25:10</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>12/14/2016 10:00:59</publishTime>
+    </File>
+    <File Include="bin/PaymentWindowsService.dll">
+      <publishTime>05/06/2017 20:44:11</publishTime>
+    </File>
+    <File Include="bin/SADADPayment.dll">
+      <publishTime>05/06/2017 20:44:11</publishTime>
+    </File>
+    <File Include="ijarahsadadalert.svc">
+      <publishTime>01/24/2017 12:16:51</publishTime>
+    </File>
+    <File Include="Service References/ServiceReference1/ijaraMessagingGateway1.disco">
+      <publishTime>01/04/2017 10:19:18</publishTime>
+    </File>
+    <File Include="Service References/ServiceReference1/ijaraMessagingGateway1.wsdl">
+      <publishTime>01/04/2017 10:19:18</publishTime>
+    </File>
+    <File Include="TestPayment.aspx">
+      <publishTime>05/01/2017 21:47:43</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/06/2017 20:02:25</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>01/04/2017 10:19:18</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

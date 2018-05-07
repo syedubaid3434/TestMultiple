@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b2344fa6-9dea-4417-985a-68bf7ac4f0fd" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:15968/IjarahSadadPaymentInsert.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="IjarahSadadPaymentInsert.xsd" MetadataType="Schema" ID="4912692b-a299-4142-8b8a-cf844269f5d6" SourceId="1" SourceUrl="http://localhost:15968/IjarahSadadPaymentInsert.svc?xsd=xsd0" />
+    <MetadataFile FileName="IjarahSadadPaymentInsert.wsdl" MetadataType="Wsdl" ID="b24b765b-9af0-49f2-b217-e671692d1ad7" SourceId="1" SourceUrl="http://localhost:15968/IjarahSadadPaymentInsert.svc?wsdl" />
+    <MetadataFile FileName="IjarahSadadPaymentInsert.disco" MetadataType="Disco" ID="ac480585-c2d8-476b-97c9-dd3ce12df99e" SourceId="1" SourceUrl="http://localhost:15968/IjarahSadadPaymentInsert.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

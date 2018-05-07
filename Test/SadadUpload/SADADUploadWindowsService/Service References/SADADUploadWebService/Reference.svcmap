@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6c8ec615-b0d5-40d0-803d-9fade7d3ec1c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://192.168.0.231/IjarahSadadUpload/IJARAHSADADUPLOAD.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="IJARAHSADADUPLOAD1.disco" MetadataType="Disco" ID="08b9b183-25e1-43fc-9269-b20da4e96f10" SourceId="1" SourceUrl="http://192.168.0.231/IjarahSadadUpload/IJARAHSADADUPLOAD.svc?disco" />
+    <MetadataFile FileName="IJARAHSADADUPLOAD1.xsd" MetadataType="Schema" ID="483a6a13-db4d-470f-9c28-20753f8131f6" SourceId="1" SourceUrl="http://192.168.0.231/IjarahSadadUpload/IJARAHSADADUPLOAD.svc?xsd=xsd0" />
+    <MetadataFile FileName="IJARAHSADADUPLOAD1.wsdl" MetadataType="Wsdl" ID="dc0b1a2c-8706-4062-b16e-f2c5ee83bd7a" SourceId="1" SourceUrl="http://192.168.0.231/IjarahSadadUpload/IJARAHSADADUPLOAD.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

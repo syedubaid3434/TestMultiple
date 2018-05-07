@@ -1,0 +1,98 @@
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.dll
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.pdb
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\SadadInsertPayment\bin\DALSADADPayment.dll
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\SadadInsertPayment\bin\mysql.data.dll
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\SadadInsertPayment\bin\ErrorLogger.dll
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\SadadInsertPayment\bin\DALSADADPayment.pdb
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\SadadInsertPayment\bin\ErrorLogger.pdb
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.csprojResolveAssemblyReference.cache
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.dll
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.pdb
+D:\Meera\New folder\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.dll.config
+D:\Meera\New folder\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.dll
+D:\Meera\New folder\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.pdb
+D:\Meera\New folder\SadadPayment\SadadInsertPayment\bin\DALSADADPayment.dll
+D:\Meera\New folder\SadadPayment\SadadInsertPayment\bin\MySql.Data.dll
+D:\Meera\New folder\SadadPayment\SadadInsertPayment\bin\ErrorLogger.dll
+D:\Meera\New folder\SadadPayment\SadadInsertPayment\bin\DALSADADPayment.pdb
+D:\Meera\New folder\SadadPayment\SadadInsertPayment\bin\ErrorLogger.pdb
+D:\Meera\New folder\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.csprojResolveAssemblyReference.cache
+D:\Meera\New folder\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.dll
+D:\Meera\New folder\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.pdb
+D:\LatestPaymentCode\SadadPayment\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.dll.config
+D:\LatestPaymentCode\SadadPayment\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.dll
+D:\LatestPaymentCode\SadadPayment\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.pdb
+D:\LatestPaymentCode\SadadPayment\SadadPayment\SadadInsertPayment\bin\DALSADADPayment.dll
+D:\LatestPaymentCode\SadadPayment\SadadPayment\SadadInsertPayment\bin\MySql.Data.dll
+D:\LatestPaymentCode\SadadPayment\SadadPayment\SadadInsertPayment\bin\ErrorLogger.dll
+D:\LatestPaymentCode\SadadPayment\SadadPayment\SadadInsertPayment\bin\DALSADADPayment.pdb
+D:\LatestPaymentCode\SadadPayment\SadadPayment\SadadInsertPayment\bin\ErrorLogger.pdb
+D:\LatestPaymentCode\SadadPayment\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.dll
+D:\LatestPaymentCode\SadadPayment\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.pdb
+D:\LatestPaymentCode\SadadPayment\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.csprojResolveAssemblyReference.cache
+D:\SADAD Payment Updated code\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.dll.config
+D:\SADAD Payment Updated code\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.dll
+D:\SADAD Payment Updated code\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.pdb
+D:\SADAD Payment Updated code\SadadPayment\SadadInsertPayment\bin\DALSADADPayment.dll
+D:\SADAD Payment Updated code\SadadPayment\SadadInsertPayment\bin\ErrorLogger.dll
+D:\SADAD Payment Updated code\SadadPayment\SadadInsertPayment\bin\DALSADADPayment.pdb
+D:\SADAD Payment Updated code\SadadPayment\SadadInsertPayment\bin\ErrorLogger.pdb
+D:\SADAD Payment Updated code\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.dll
+D:\SADAD Payment Updated code\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.pdb
+D:\SADAD Payment Updated code\SadadPayment\SadadInsertPayment\bin\MySql.Data.dll
+D:\SADAD Payment Updated code\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.dll.config
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.dll
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.pdb
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\SadadInsertPayment\bin\DALSADADPayment.dll
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\SadadInsertPayment\bin\MySql.Data.dll
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\SadadInsertPayment\bin\ErrorLogger.dll
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\SadadInsertPayment\bin\DALSADADPayment.pdb
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\SadadInsertPayment\bin\ErrorLogger.pdb
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.dll
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.pdb
+D:\Data\Ijarah\IjarahCode\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.dll.config
+D:\Data\Ijarah\IjarahCode\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.dll
+D:\Data\Ijarah\IjarahCode\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.pdb
+D:\Data\Ijarah\IjarahCode\SadadPayment\SadadInsertPayment\bin\DALSADADPayment.dll
+D:\Data\Ijarah\IjarahCode\SadadPayment\SadadInsertPayment\bin\MySql.Data.dll
+D:\Data\Ijarah\IjarahCode\SadadPayment\SadadInsertPayment\bin\ErrorLogger.dll
+D:\Data\Ijarah\IjarahCode\SadadPayment\SadadInsertPayment\bin\DALSADADPayment.pdb
+D:\Data\Ijarah\IjarahCode\SadadPayment\SadadInsertPayment\bin\ErrorLogger.pdb
+D:\Data\Ijarah\IjarahCode\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah\IjarahCode\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.dll
+D:\Data\Ijarah\IjarahCode\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.pdb
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.dll.config
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.dll
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.pdb
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\SadadInsertPayment\bin\DALSADADPayment.dll
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\SadadInsertPayment\bin\MySql.Data.dll
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\SadadInsertPayment\bin\ErrorLogger.dll
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\SadadInsertPayment\bin\DALSADADPayment.pdb
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\SadadInsertPayment\bin\ErrorLogger.pdb
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.csprojResolveAssemblyReference.cache
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.dll
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.pdb
+D:\Sabb code 130318\Sadad Update Code140318\SadadPayment\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.dll.config
+D:\Sabb code 130318\Sadad Update Code140318\SadadPayment\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.dll
+D:\Sabb code 130318\Sadad Update Code140318\SadadPayment\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.pdb
+D:\Sabb code 130318\Sadad Update Code140318\SadadPayment\SadadPayment\SadadInsertPayment\bin\DALSADADPayment.dll
+D:\Sabb code 130318\Sadad Update Code140318\SadadPayment\SadadPayment\SadadInsertPayment\bin\MySql.Data.dll
+D:\Sabb code 130318\Sadad Update Code140318\SadadPayment\SadadPayment\SadadInsertPayment\bin\ErrorLogger.dll
+D:\Sabb code 130318\Sadad Update Code140318\SadadPayment\SadadPayment\SadadInsertPayment\bin\DALSADADPayment.pdb
+D:\Sabb code 130318\Sadad Update Code140318\SadadPayment\SadadPayment\SadadInsertPayment\bin\ErrorLogger.pdb
+D:\Sabb code 130318\Sadad Update Code140318\SadadPayment\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.csprojResolveAssemblyReference.cache
+D:\Sabb code 130318\Sadad Update Code140318\SadadPayment\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.dll
+D:\Sabb code 130318\Sadad Update Code140318\SadadPayment\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.pdb
+E:\Projects\SadadPayment\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.dll.config
+E:\Projects\SadadPayment\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.dll
+E:\Projects\SadadPayment\SadadPayment\SadadInsertPayment\bin\SadadInsertPayment.pdb
+E:\Projects\SadadPayment\SadadPayment\SadadInsertPayment\bin\DALSADADPayment.dll
+E:\Projects\SadadPayment\SadadPayment\SadadInsertPayment\bin\MySql.Data.dll
+E:\Projects\SadadPayment\SadadPayment\SadadInsertPayment\bin\ErrorLogger.dll
+E:\Projects\SadadPayment\SadadPayment\SadadInsertPayment\bin\DALSADADPayment.pdb
+E:\Projects\SadadPayment\SadadPayment\SadadInsertPayment\bin\ErrorLogger.pdb
+E:\Projects\SadadPayment\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.csprojResolveAssemblyReference.cache
+E:\Projects\SadadPayment\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.dll
+E:\Projects\SadadPayment\SadadPayment\SadadInsertPayment\obj\Debug\SadadInsertPayment.pdb

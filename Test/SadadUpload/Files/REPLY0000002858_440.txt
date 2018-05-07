@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><FileMessage>
+<Header><Sender>RYBK</Sender>
+<FileType>SADADBillerUploadMSGACK</FileType>
+<FileID>IJR0000002858</FileID>
+<TimeStamp>2018-03-20T06:03:42</TimeStamp>
+</Header>
+<Body>File received Successfully.</Body>
+</FileMessage>

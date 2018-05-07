@@ -1,0 +1,22 @@
+D:\SADADKISL\SadadUpload\TESTUpload\bin\TESTUpload.dll.config
+D:\SADADKISL\SadadUpload\TESTUpload\bin\TESTUpload.dll
+D:\SADADKISL\SadadUpload\TESTUpload\bin\TESTUpload.pdb
+D:\SADADKISL\SadadUpload\TESTUpload\obj\Debug\TESTUpload.dll
+D:\SADADKISL\SadadUpload\TESTUpload\obj\Debug\TESTUpload.pdb
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\TESTUpload\bin\TESTUpload.dll.config
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\TESTUpload\bin\TESTUpload.dll
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\TESTUpload\bin\TESTUpload.pdb
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\TESTUpload\bin\SADADUploadWebService.dll
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\TESTUpload\bin\DALSADADUpload.dll
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\TESTUpload\bin\ErrorLogger.dll
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\TESTUpload\bin\SADADUploadWebService.pdb
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\TESTUpload\bin\DALSADADUpload.pdb
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\TESTUpload\bin\ErrorLogger.pdb
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\TESTUpload\obj\Debug\TESTUpload.csprojResolveAssemblyReference.cache
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\TESTUpload\obj\Debug\TESTUpload.dll
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\TESTUpload\obj\Debug\TESTUpload.pdb
+D:\My Received Files\Satish.M\[0]-SadadUpload\SadadUpload\TESTUpload\bin\TESTUpload.dll
+D:\My Received Files\Satish.M\[0]-SadadUpload\SadadUpload\TESTUpload\bin\TESTUpload.pdb
+D:\My Received Files\Satish.M\[0]-SadadUpload\SadadUpload\TESTUpload\obj\Debug\TESTUpload.dll
+D:\My Received Files\Satish.M\[0]-SadadUpload\SadadUpload\TESTUpload\obj\Debug\TESTUpload.pdb
+D:\My Received Files\Satish.M\[0]-SadadUpload\SadadUpload\TESTUpload\obj\Debug\TESTUpload.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+﻿Installing assembly 'D:\Data\Ijarah_Jan\SADADUploadWindowsService\bin\Debug\SADADUploadWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Data\Ijarah_Jan\SADADUploadWindowsService\bin\Debug\SADADUploadWindowsService.InstallLog
+   assemblypath = D:\Data\Ijarah_Jan\SADADUploadWindowsService\bin\Debug\SADADUploadWindowsService.exe
+Installing service SADADUpload...
+Service SADADUpload has been successfully installed.
+Creating EventLog source SADADUpload in log Application...
+Committing assembly 'D:\Data\Ijarah_Jan\SADADUploadWindowsService\bin\Debug\SADADUploadWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Data\Ijarah_Jan\SADADUploadWindowsService\bin\Debug\SADADUploadWindowsService.InstallLog
+   assemblypath = D:\Data\Ijarah_Jan\SADADUploadWindowsService\bin\Debug\SADADUploadWindowsService.exe
+Uninstalling assembly 'D:\Data\Ijarah_Jan\SADADUploadWindowsService\bin\Debug\SADADUploadWindowsService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Data\Ijarah_Jan\SADADUploadWindowsService\bin\Debug\SADADUploadWindowsService.InstallLog
+   assemblypath = D:\Data\Ijarah_Jan\SADADUploadWindowsService\bin\Debug\SADADUploadWindowsService.exe
+Removing EventLog source SADADUpload.
+Service SADADUpload is being removed from the system...
+Service SADADUpload was successfully removed from the system.
+Attempt to stop service SADADUpload.

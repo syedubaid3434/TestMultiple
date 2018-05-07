@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://192.168.0.230/ijaraMessagingGateway.svc?xsd=xsd2" />
+  <xs:import schemaLocation="http://192.168.0.230/ijaraMessagingGateway.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/MessagingGateway" />
+  <xs:element name="SendSMS">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="ObjIjarahSMS" nillable="true" type="SendSMS" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendSMSResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="SendSMSResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendEMail">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="objIjarahEmail" nillable="true" type="SendMail" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendEMailResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendSRSms">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="objIjarahSRSMS" nillable="true" type="SendSRSms" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendSRSmsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="SendSRSmsResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendSREmail">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="objIjarahSREmail" nillable="true" type="SendSREmail" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendSREmailResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendSaleSMS">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="objIjarahSalesSMS" nillable="true" type="SendSaleSMS" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendSaleSMSResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="SendSaleSMSResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendSaleEmail">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="objIjarahSalesEmail" nillable="true" type="SendSaleEmail" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendSaleEmailResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendPOSSMS">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="objIjarahPOSSMS" nillable="true" type="SendPOSSMS" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendPOSSMSResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="SendPOSSMSResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendOTP">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/MessagingGateway" minOccurs="0" name="objIjarahOTPSMS" nillable="true" type="q1:IjarahOTPSMS" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendOTPResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="SendOTPResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendBulkEmail">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="objIjarahBulkEmail" nillable="true" type="SendBulkEmail" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SendBulkEmailResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

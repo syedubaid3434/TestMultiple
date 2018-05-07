@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="7e35760e-0574-47f9-b4d4-dd6b9c753268" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://192.168.0.230/ijaraMessagingGateway.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ijaraMessagingGateway.xsd" MetadataType="Schema" ID="3d6983e1-a025-4ec8-bab8-0c319b88d406" SourceId="1" SourceUrl="http://192.168.0.230/ijaraMessagingGateway.svc?xsd=xsd3" />
+    <MetadataFile FileName="ijaraMessagingGateway.disco" MetadataType="Disco" ID="0de7915b-d388-4888-b3af-97ef9292489d" SourceId="1" SourceUrl="http://192.168.0.230/ijaraMessagingGateway.svc?disco" />
+    <MetadataFile FileName="ijaraMessagingGateway1.xsd" MetadataType="Schema" ID="c01a5b92-7148-4d4a-bde7-1c10c7442cac" SourceId="1" SourceUrl="http://192.168.0.230/ijaraMessagingGateway.svc?xsd=xsd0" />
+    <MetadataFile FileName="ijaraMessagingGateway2.xsd" MetadataType="Schema" ID="6532a5c9-b5e6-4602-9c3e-d8872343113d" SourceId="1" SourceUrl="http://192.168.0.230/ijaraMessagingGateway.svc?xsd=xsd1" />
+    <MetadataFile FileName="ijaraMessagingGateway.wsdl" MetadataType="Wsdl" ID="205235bf-d5b4-4801-949e-94f9cb2c7439" SourceId="1" SourceUrl="http://192.168.0.230/ijaraMessagingGateway.svc?wsdl" />
+    <MetadataFile FileName="ijaraMessagingGateway3.xsd" MetadataType="Schema" ID="204b08c8-56e3-45d0-b98d-b7d880ca5959" SourceId="1" SourceUrl="http://192.168.0.230/ijaraMessagingGateway.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

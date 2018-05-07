@@ -1,0 +1,7 @@
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SABBWINDOWSDAL\bin\Release\SABBWINDOWSDAL.dll
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SABBWINDOWSDAL\bin\Release\SABBWINDOWSDAL.pdb
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SABBWINDOWSDAL\bin\Release\ErrorLogger.dll
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SABBWINDOWSDAL\bin\Release\ErrorLogger.pdb
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SABBWINDOWSDAL\obj\Release\SABBWINDOWSDAL.csprojResolveAssemblyReference.cache
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SABBWINDOWSDAL\obj\Release\SABBWINDOWSDAL.dll
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadUpload\SABBWINDOWSDAL\obj\Release\SABBWINDOWSDAL.pdb

@@ -1,0 +1,19 @@
+D:\Data\Ijarah_Jan\ErrorLogger\bin\Release\ErrorLogger.dll
+D:\Data\Ijarah_Jan\ErrorLogger\bin\Release\ErrorLogger.pdb
+D:\Data\Ijarah_Jan\ErrorLogger\obj\Release\ErrorLogger.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah_Jan\ErrorLogger\obj\Release\ErrorLogger.dll
+D:\Data\Ijarah_Jan\ErrorLogger\obj\Release\ErrorLogger.pdb
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadPayment\ErrorLogger\bin\Release\ErrorLogger.dll
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadPayment\ErrorLogger\bin\Release\ErrorLogger.pdb
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadPayment\ErrorLogger\obj\Release\ErrorLogger.csprojResolveAssemblyReference.cache
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadPayment\ErrorLogger\obj\Release\ErrorLogger.dll
+D:\SADAD BackUp\KISL SADAD\Ijarah Deliveries\Source Code\SADAD\SadadPayment\ErrorLogger\obj\Release\ErrorLogger.pdb
+C:\SADAPAyment & SABB Updated Code\SadadPayment\ErrorLogger\bin\Release\ErrorLogger.dll
+C:\SADAPAyment & SABB Updated Code\SadadPayment\ErrorLogger\bin\Release\ErrorLogger.pdb
+C:\SADAPAyment & SABB Updated Code\SadadPayment\ErrorLogger\obj\Release\ErrorLogger.dll
+C:\SADAPAyment & SABB Updated Code\SadadPayment\ErrorLogger\obj\Release\ErrorLogger.pdb
+D:\Sabb code 130318\Sadad Update Code140318\SadadPayment\SadadPayment\ErrorLogger\bin\Release\ErrorLogger.dll
+D:\Sabb code 130318\Sadad Update Code140318\SadadPayment\SadadPayment\ErrorLogger\bin\Release\ErrorLogger.pdb
+D:\Sabb code 130318\Sadad Update Code140318\SadadPayment\SadadPayment\ErrorLogger\obj\Release\ErrorLogger.csprojResolveAssemblyReference.cache
+D:\Sabb code 130318\Sadad Update Code140318\SadadPayment\SadadPayment\ErrorLogger\obj\Release\ErrorLogger.dll
+D:\Sabb code 130318\Sadad Update Code140318\SadadPayment\SadadPayment\ErrorLogger\obj\Release\ErrorLogger.pdb

@@ -1,0 +1,118 @@
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.dll
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.pdb
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\bin\Debug\DALSADADPayment.dll
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\bin\Debug\ErrorLogger.dll
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\bin\Debug\mysql.data.dll
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\bin\Debug\DALSADADPayment.pdb
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\bin\Debug\ErrorLogger.pdb
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.csprojResolveAssemblyReference.cache
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.dll
+C:\SADAPAyment & SABB Updated Code\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.pdb
+D:\Data\Ijarah_PAYMENT\09052017\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.pdb
+D:\Data\Ijarah_PAYMENT\09052017\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\DALSADADPayment.dll
+D:\Data\Ijarah_PAYMENT\09052017\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\ErrorLogger.dll
+D:\Data\Ijarah_PAYMENT\09052017\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\DALSADADPayment.pdb
+D:\Data\Ijarah_PAYMENT\09052017\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\ErrorLogger.pdb
+D:\Data\Ijarah_PAYMENT\09052017\SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah_PAYMENT\09052017\SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.PaymentForm.resources
+D:\Data\Ijarah_PAYMENT\09052017\SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.ProjectInstaller.resources
+D:\Data\Ijarah_PAYMENT\09052017\SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.csproj.GenerateResource.Cache
+D:\Data\Ijarah_PAYMENT\09052017\SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.pdb
+D:\Data\Ijarah_PAYMENT\09052017\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.exe.config
+D:\Data\Ijarah_PAYMENT\09052017\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.exe
+D:\Data\Ijarah_PAYMENT\09052017\SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.exe
+D:\Data\Ijarah_PAYMENT\09052017\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\MySql.Data.dll
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.exe.config
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.exe
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.pdb
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\PaymentWindowsService\bin\Debug\DALSADADPayment.dll
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\PaymentWindowsService\bin\Debug\ErrorLogger.dll
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\PaymentWindowsService\bin\Debug\DALSADADPayment.pdb
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\PaymentWindowsService\bin\Debug\ErrorLogger.pdb
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.csprojResolveAssemblyReference.cache
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.PaymentForm.resources
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.ProjectInstaller.resources
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.csproj.GenerateResource.Cache
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.exe
+D:\Data\Project\Alfras\Delivery\New folder\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.pdb
+D:\Meera\New folder\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.exe.config
+D:\Meera\New folder\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.exe
+D:\Meera\New folder\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.pdb
+D:\LatestPaymentCode\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.exe.config
+D:\LatestPaymentCode\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.exe
+D:\LatestPaymentCode\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.pdb
+D:\LatestPaymentCode\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\DALSADADPayment.dll
+D:\LatestPaymentCode\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\ErrorLogger.dll
+D:\LatestPaymentCode\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\DALSADADPayment.pdb
+D:\LatestPaymentCode\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\ErrorLogger.pdb
+D:\LatestPaymentCode\SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.PaymentForm.resources
+D:\LatestPaymentCode\SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.ProjectInstaller.resources
+D:\LatestPaymentCode\SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.csproj.GenerateResource.Cache
+D:\LatestPaymentCode\SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.exe
+D:\LatestPaymentCode\SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.pdb
+D:\LatestPaymentCode\SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.csprojResolveAssemblyReference.cache
+D:\SADAD Payment Updated code\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.exe.config
+D:\SADAD Payment Updated code\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.exe
+D:\SADAD Payment Updated code\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.pdb
+D:\SADAD Payment Updated code\SadadPayment\PaymentWindowsService\bin\Debug\DALSADADPayment.dll
+D:\SADAD Payment Updated code\SadadPayment\PaymentWindowsService\bin\Debug\ErrorLogger.dll
+D:\SADAD Payment Updated code\SadadPayment\PaymentWindowsService\bin\Debug\DALSADADPayment.pdb
+D:\SADAD Payment Updated code\SadadPayment\PaymentWindowsService\bin\Debug\ErrorLogger.pdb
+D:\SADAD Payment Updated code\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.csprojResolveAssemblyReference.cache
+D:\SADAD Payment Updated code\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.PaymentForm.resources
+D:\SADAD Payment Updated code\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.ProjectInstaller.resources
+D:\SADAD Payment Updated code\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.csproj.GenerateResource.Cache
+D:\SADAD Payment Updated code\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.exe
+D:\SADAD Payment Updated code\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.pdb
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.exe.config
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.exe
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.pdb
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\DALSADADPayment.dll
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\ErrorLogger.dll
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\DALSADADPayment.pdb
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\ErrorLogger.pdb
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.PaymentForm.resources
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.ProjectInstaller.resources
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.csproj.GenerateResource.Cache
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.exe
+D:\Data\Ijarah\Zubair_SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.pdb
+D:\Data\Ijarah\IjarahCode\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.exe.config
+D:\Data\Ijarah\IjarahCode\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.exe
+D:\Data\Ijarah\IjarahCode\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.pdb
+D:\Data\Ijarah\IjarahCode\SadadPayment\PaymentWindowsService\bin\Debug\DALSADADPayment.dll
+D:\Data\Ijarah\IjarahCode\SadadPayment\PaymentWindowsService\bin\Debug\ErrorLogger.dll
+D:\Data\Ijarah\IjarahCode\SadadPayment\PaymentWindowsService\bin\Debug\DALSADADPayment.pdb
+D:\Data\Ijarah\IjarahCode\SadadPayment\PaymentWindowsService\bin\Debug\ErrorLogger.pdb
+D:\Data\Ijarah\IjarahCode\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.csprojResolveAssemblyReference.cache
+D:\Data\Ijarah\IjarahCode\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.PaymentForm.resources
+D:\Data\Ijarah\IjarahCode\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.ProjectInstaller.resources
+D:\Data\Ijarah\IjarahCode\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.csproj.GenerateResource.Cache
+D:\Data\Ijarah\IjarahCode\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.exe
+D:\Data\Ijarah\IjarahCode\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.pdb
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.exe.config
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.exe
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.pdb
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\PaymentWindowsService\bin\Debug\DALSADADPayment.dll
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\PaymentWindowsService\bin\Debug\ErrorLogger.dll
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\PaymentWindowsService\bin\Debug\DALSADADPayment.pdb
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\PaymentWindowsService\bin\Debug\ErrorLogger.pdb
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.csprojResolveAssemblyReference.cache
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.PaymentForm.resources
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.ProjectInstaller.resources
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.csproj.GenerateResource.Cache
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.exe
+C:\Users\zubair.alam\Desktop\Sadad Payment service\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.pdb
+E:\Projects\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.exe.config
+E:\Projects\SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.exe
+E:\Projects\SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.pdb
+E:\Projects\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.exe
+E:\Projects\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\PaymentWindowsService.pdb
+E:\Projects\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\DALSADADPayment.dll
+E:\Projects\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\ErrorLogger.dll
+E:\Projects\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\DALSADADPayment.pdb
+E:\Projects\SadadPayment\SadadPayment\PaymentWindowsService\bin\Debug\ErrorLogger.pdb
+E:\Projects\SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.csprojResolveAssemblyReference.cache
+E:\Projects\SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.PaymentForm.resources
+E:\Projects\SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.ProjectInstaller.resources
+E:\Projects\SadadPayment\SadadPayment\PaymentWindowsService\obj\Debug\PaymentWindowsService.csproj.GenerateResource.Cache

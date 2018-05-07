@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="SADADUploadWebService.IJARAHSADADUPLOAD" CodeBehind="IJARAHSADADUPLOAD.svc.cs" %>
